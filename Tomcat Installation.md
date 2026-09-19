@@ -5,7 +5,7 @@
 1. With script 
 2. Manual
 
-1. Using script 
+# Using script 
 
 ```bash
 #!/usr/bin/env bash
