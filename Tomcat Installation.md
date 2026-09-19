@@ -716,7 +716,7 @@ run the command
 sudo ./install-tomcat.sh 'Manager@12345' 'Admin@12345'
 ```
 
-2. Manual 
+# 2. Manual 
 ## How To Install Apache Tomcat 10 on Ubuntu 20.04
 
 **Java | Ubuntu 20.04 | Apache**  
